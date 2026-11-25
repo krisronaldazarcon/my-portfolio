@@ -1,2 +1,2 @@
-# my-portfolio
+![alt text](profile.jpg) ![alt text](qr-attendance.jpg) <video controls src="trueno-ae86-tokyo-street.3840x2160.mp4" title="alt text"></video> <video controls src="supra-a80-coastal-chill.3840x2160.mp4" title="Title"></video> <video controls src="evolution-never-ends.3840x2160.mp4" title="Title"></video> <video controls src="skyline-r34-trackside-meet.3840x2160.mp4" title="Title"></video> <video controls src="lancer-evo-ix.3840x2160.mp4" title="Title"></video> <video controls src="red-volvo-parked-near-garage.1920x1080.mp4" title="Title"></video> <video controls src="anime-girl-next-to-car.3840x2160.mp4" title="Title"></video> ![alt text](gadget-borrowing-dashboard.png) ![alt text](gadget-borrowing-login.png)# my-portfolio
 My Personal Portfolio Website
